@@ -1,0 +1,3 @@
+﻿  RobotServer.cpp
+c:\users\laz\desktop\cnt application pioneer robot\pioneerrobotserver\pioneerrobotserver\robotserver.cpp(73): warning C4101: 'iSendResult': unreferenced local variable
+  PioneerRobotServer.vcxproj -> C:\Users\Laz\Desktop\CNT Application Pioneer Robot\PioneerRobotServer\Debug\PioneerRobotServer.exe
